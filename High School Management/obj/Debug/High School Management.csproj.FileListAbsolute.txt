@@ -1,0 +1,49 @@
+C:\Users\Fahim\source\repos\High School Management\High School Management\bin\Debug\High School Management.exe.config
+C:\Users\Fahim\source\repos\High School Management\High School Management\bin\Debug\High School Management.exe
+C:\Users\Fahim\source\repos\High School Management\High School Management\bin\Debug\High School Management.pdb
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.Login.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.Properties.Resources.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High School Management.csproj.GenerateResource.cache
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High School Management.csproj.CoreCompileInputs.cache
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High School Management.exe
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High School Management.pdb
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High School Management.csprojAssemblyReference.cache
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.Home.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.AddUsers.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.AddStudents.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.AddSubject.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.AssignSubject.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.EditStudent.resources
+C:\Users\Fahim\source\repos\High School Management\High School Management\bin\Debug\High School Management.exe.manifest
+C:\Users\Fahim\source\repos\High School Management\High School Management\bin\Debug\High School Management.application
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High School Management.exe.manifest
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High School Management.application
+C:\Users\Fahim\source\repos\High School Management\High School Management\obj\Debug\High_School_Management.EditUser.resources
+F:\Project\C#\High-School-Management\High School Management\bin\Debug\High School Management.exe.config
+F:\Project\C#\High-School-Management\High School Management\bin\Debug\High School Management.exe.manifest
+F:\Project\C#\High-School-Management\High School Management\bin\Debug\High School Management.application
+F:\Project\C#\High-School-Management\High School Management\bin\Debug\High School Management.exe
+F:\Project\C#\High-School-Management\High School Management\bin\Debug\High School Management.pdb
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High School Management.csprojAssemblyReference.cache
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.AddStudents.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.AddSubject.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.AddUsers.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.AssignSubject.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.EditStudent.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.EditUser.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.Home.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.Login.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.Properties.Resources.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High School Management.csproj.GenerateResource.cache
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High School Management.csproj.CoreCompileInputs.cache
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High School Management.exe.manifest
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High School Management.application
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High School Management.exe
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High School Management.pdb
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.TeacherHome.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.AddTeacher.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.AssignTeacher.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.EditSubject.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.DeleteClassAssign.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.AddEmployee.resources
+F:\Project\C#\High-School-Management\High School Management\obj\Debug\High_School_Management.EditEmployee.resources
